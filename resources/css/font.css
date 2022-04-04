@@ -1,0 +1,19 @@
+/*
+ * Noto Sans Gurmukhi UI (Gurmukhi) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+    font-family: 'Noto';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../font/NotoSans-Regular.html);
+    src: url(../font/NotoSans-Regulard41d.html?#iefix) format('embedded-opentype'),
+    url(../font/NotoSans-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Noto';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../font/NotoSans-Bold.html);
+    src: url(../font/NotoSans-Boldd41d.html?#iefix) format('embedded-opentype'),
+    url(../font/NotoSans-Bold.ttf) format('truetype');
+}
